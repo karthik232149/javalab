@@ -27,7 +27,7 @@ char c[]=new char[50];
 s1.getChars(2,4,c,0);
 System.out.print("\n\ncharcater between 2 and 4 :"+new String(c));
 System.out.print("\n\n-----CHARACTER COMPARISON------");
-String x="welcome";
+String x="welcome";2
 String y="WELCOME";
 System.out.print("\n\nstring 1 :"+x);
 System.out.print("\nstring 2 :"+y);
